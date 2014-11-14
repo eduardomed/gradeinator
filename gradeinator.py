@@ -27,11 +27,11 @@ def course_router():
 	else:
 		print "Not a supported course"
 
-def display(): 
-	"""
-	Display results from course code 
-	"""
-	pass
+# def display(): 
+# 	"""
+# 	Display results from course code 
+# 	"""
+# 	pass
 
 
 def main():
